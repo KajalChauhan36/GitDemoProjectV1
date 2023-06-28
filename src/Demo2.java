@@ -2,7 +2,7 @@
 public class Demo2 {
 	public static void main(String[] args) {
 		
-	    String hungry="yes";
+	    String hungry="yes i am";
 	    if(hungry=="yes") 
 	    	System.out.println("Eat Something.............");
 	    	else{
